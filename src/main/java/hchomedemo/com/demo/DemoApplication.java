@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Congrats ! Demo app deployed";
+		return "Congrats ! Demo app deployed from Henry";
 	}
 
 	public static void main(String[] args) {
